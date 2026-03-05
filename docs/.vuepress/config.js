@@ -3,6 +3,7 @@ import { defineUserConfig } from 'vuepress';
 import { viteBundler } from '@vuepress/bundler-vite';
 
 export default defineUserConfig({
+  base: '/ubunifu/',
   lang: 'en-US',
   title: 'UBUNIFU SACCO Documentation',
   description: 'Comprehensive documentation for the UBUNIFU SACCO project',
