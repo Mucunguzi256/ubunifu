@@ -2,6 +2,7 @@
 home: true
 title: Home
 
+
 📘 UBUNIFU SACCO Documentation
 Welcome to the official documentation repository for UBUNIFU SACCO Ltd. — a member-owned financial cooperative dedicated to empowering Uganda’s technology startups, innovators, and creatives.
 
