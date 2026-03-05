@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-
+npm run docs:build
 📘 UBUNIFU SACCO Documentation
 Welcome to the official documentation repository for UBUNIFU SACCO Ltd. — a member-owned financial cooperative dedicated to empowering Uganda’s technology startups, innovators, and creatives.
 
@@ -37,7 +37,7 @@ References – Academic and industry sources.
 🚀 View the Documentation
 You can browse the documentation in two ways:
 
-Online  – https://mucunguzi256.github.io/ubunifu/ 
+Online  – https://mucunguzi256.github.io/ubunifu/
 
 Locally – Follow the setup instructions below to run it on your own machine.
 
